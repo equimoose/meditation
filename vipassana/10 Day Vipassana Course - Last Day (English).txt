@@ -1,0 +1,3324 @@
+1
+00:00:00,000 --> 00:00:06,000
+[Music]
+
+2
+00:00:06,000 --> 00:00:08,000
+[Music]
+
+3
+00:00:08,000 --> 00:00:15,000
+Namaste
+
+4
+00:00:15,000 --> 00:00:18,000
+[Music]
+
+5
+00:00:18,000 --> 00:00:44,800
+[sings]
+
+6
+00:00:45,800 --> 00:01:12,800
+[sings]
+
+7
+00:01:13,800 --> 00:01:15,800
+[sings]
+
+8
+00:01:16,800 --> 00:01:25,800
+[sings]
+
+9
+00:01:25,800 --> 00:01:33,800
+[sings]
+
+10
+00:01:33,800 --> 00:01:58,800
+[sings]
+
+11
+00:01:58,800 --> 00:02:08,800.0000000000146
+[sings]
+
+12
+00:02:08,800.0000000000146 --> 00:02:18,800
+[sings]
+
+13
+00:02:18,800 --> 00:02:28,800
+[sings]
+
+14
+00:02:28,800 --> 00:02:38,800
+[sings]
+
+15
+00:02:38,800 --> 00:02:47,800
+[sings]
+
+16
+00:02:47,800 --> 00:02:57,800
+[sings]
+
+17
+00:02:57,800 --> 00:03:08,800
+[sings]
+
+18
+00:03:08,800 --> 00:03:10,800
+[coughs]
+
+19
+00:03:10,800 --> 00:03:16,800
+[coughs]
+
+20
+00:03:16,800 --> 00:03:26,800
+[sings]
+
+21
+00:03:26,800 --> 00:03:34,800
+[sings]
+
+22
+00:03:34,800 --> 00:03:44,800
+[sings]
+
+23
+00:03:44,800 --> 00:03:52,800
+[sings]
+
+24
+00:03:52,800 --> 00:04:10,800
+[sings]
+
+25
+00:04:10,800 --> 00:04:20,800
+[sings]
+
+26
+00:04:20,800 --> 00:04:30,800
+[sings]
+
+27
+00:04:30,800 --> 00:04:40,800
+[sings]
+
+28
+00:04:40,800 --> 00:04:50,800
+[sings]
+
+29
+00:04:50,800 --> 00:05:00,800
+[sings]
+
+30
+00:05:00,800 --> 00:05:10,800
+[sings]
+
+31
+00:05:10,800 --> 00:05:15,800
+[sings]
+
+32
+00:05:15,800 --> 00:05:25,800
+[sings]
+
+33
+00:05:25,800 --> 00:05:35,800
+[sings]
+
+34
+00:05:35,800 --> 00:05:45,800
+[sings]
+
+35
+00:05:45,800 --> 00:05:53,800
+[sings]
+
+36
+00:05:53,800 --> 00:06:03,800
+[sings]
+
+37
+00:06:03,800 --> 00:06:13,800
+[sings]
+
+38
+00:06:13,800 --> 00:06:23,800
+[sings]
+
+39
+00:06:23,800 --> 00:06:33,800
+[sings]
+
+40
+00:06:33,800 --> 00:06:43,800
+[sings]
+
+41
+00:06:43,800 --> 00:06:53,800
+[sings]
+
+42
+00:06:53,800 --> 00:07:01,800
+[sings]
+
+43
+00:07:01,800 --> 00:07:11,800
+[sings]
+
+44
+00:07:11,800 --> 00:07:21,800
+[sings]
+
+45
+00:07:21,800 --> 00:07:31,800
+[sings]
+
+46
+00:07:31,800 --> 00:07:41,800
+[sings]
+
+47
+00:07:41,800 --> 00:07:51,800
+[sings]
+
+48
+00:07:51,800 --> 00:08:01,800
+[sings]
+
+49
+00:08:01,800 --> 00:08:21,800
+[sings]
+
+50
+00:08:21,800 --> 00:08:41,799.9999999999418
+[sings]
+
+51
+00:08:41,799.9999999999418 --> 00:08:51,800
+[sings]
+
+52
+00:08:51,800 --> 00:09:01,800
+[sings]
+
+53
+00:09:01,800 --> 00:09:11,800
+[sings]
+
+54
+00:09:11,800 --> 00:09:21,800
+[sings]
+
+55
+00:09:21,800 --> 00:09:25,800
+[sings]
+
+56
+00:09:25,800 --> 00:09:35,800
+[sings]
+
+57
+00:09:35,800 --> 00:09:45,800
+[sings]
+
+58
+00:09:45,800 --> 00:10:05,800
+[sings]
+
+59
+00:10:05,800 --> 00:10:15,800
+[sings]
+
+60
+00:10:15,800 --> 00:10:25,800
+[sings]
+
+61
+00:10:25,800 --> 00:10:35,800
+[sings]
+
+62
+00:10:35,800 --> 00:10:45,800
+[sings]
+
+63
+00:10:45,800 --> 00:10:55,800
+[sings]
+
+64
+00:10:55,800 --> 00:11:05,800
+[sings]
+
+65
+00:11:05,800 --> 00:11:25,800
+[sings]
+
+66
+00:11:25,800 --> 00:11:35,800
+[sings]
+
+67
+00:11:35,800 --> 00:11:45,800
+[sings]
+
+68
+00:11:45,800 --> 00:11:55,800
+[sings]
+
+69
+00:11:55,800 --> 00:12:05,800
+[sings]
+
+70
+00:12:05,800 --> 00:12:15,800
+[sings]
+
+71
+00:12:15,800 --> 00:12:25,800
+[sings]
+
+72
+00:12:25,800 --> 00:12:35,800
+[sings]
+
+73
+00:12:35,800 --> 00:12:39,800
+[sings]
+
+74
+00:12:39,800 --> 00:12:57,800
+[sings]
+
+75
+00:12:57,800 --> 00:13:17,800
+[sings]
+
+76
+00:13:17,800 --> 00:13:27,800
+[sings]
+
+77
+00:13:27,800 --> 00:13:37,800
+[sings]
+
+78
+00:13:37,800 --> 00:13:57,800
+[sings]
+
+79
+00:13:57,800 --> 00:14:17,800
+[sings]
+
+80
+00:14:17,800 --> 00:14:37,800
+[sings]
+
+81
+00:14:37,800 --> 00:14:47,800
+[sings]
+
+82
+00:14:47,800 --> 00:14:57,800
+[sings]
+
+83
+00:14:57,800 --> 00:15:07,800
+[sings]
+
+84
+00:15:07,800 --> 00:15:17,800
+[sings]
+
+85
+00:15:17,800 --> 00:15:37,800
+[sings]
+
+86
+00:15:37,800 --> 00:15:47,800
+[sings]
+
+87
+00:15:47,800 --> 00:15:57,800
+[sings]
+
+88
+00:15:57,800 --> 00:16:07,800
+[sings]
+
+89
+00:16:07,800 --> 00:16:17,800
+[sings]
+
+90
+00:16:17,800 --> 00:16:27,800
+[sings]
+
+91
+00:16:27,800 --> 00:16:37,800
+[sings]
+
+92
+00:16:37,800 --> 00:16:47,800
+[sings]
+
+93
+00:16:47,800 --> 00:16:57,800
+[sings]
+
+94
+00:16:57,800 --> 00:17:07,800
+[sings]
+
+95
+00:17:07,800 --> 00:17:17,800
+[sings]
+
+96
+00:17:17,800 --> 00:17:37,800
+[sings]
+
+97
+00:17:37,800 --> 00:17:59,800
+[sings]
+
+98
+00:17:59,800 --> 00:18:09,800
+[sings]
+
+99
+00:18:09,800 --> 00:18:19,800
+[sings]
+
+100
+00:18:19,800 --> 00:18:39,800
+[sings]
+
+101
+00:18:39,800 --> 00:18:49,800
+[sings]
+
+102
+00:18:49,800 --> 00:18:59,800
+[sings]
+
+103
+00:18:59,800 --> 00:19:09,800
+[sings]
+
+104
+00:19:09,800 --> 00:19:19,800
+[sings]
+
+105
+00:19:19,800 --> 00:19:39,800
+[sings]
+
+106
+00:19:39,800 --> 00:19:49,800
+[sings]
+
+107
+00:19:49,800 --> 00:19:59,800
+[sings]
+
+108
+00:19:59,800 --> 00:20:09,800
+[sings]
+
+109
+00:20:09,800 --> 00:20:19,800
+[sings]
+
+110
+00:20:19,800 --> 00:20:29,800
+[sings]
+
+111
+00:20:29,800 --> 00:20:39,800
+[sings]
+
+112
+00:20:39,800 --> 00:20:49,800
+[sings]
+
+113
+00:20:49,800 --> 00:20:59,800
+[sings]
+
+114
+00:20:59,800 --> 00:21:07,800
+[sings]
+
+115
+00:21:07,800 --> 00:21:27,800
+[sings]
+
+116
+00:21:27,800 --> 00:21:37,800
+[sings]
+
+117
+00:21:37,800 --> 00:21:47,800
+[sings]
+
+118
+00:21:47,800 --> 00:21:57,800
+[sings]
+
+119
+00:21:57,800 --> 00:22:07,800
+[sings]
+
+120
+00:22:07,800 --> 00:22:17,800
+[sings]
+
+121
+00:22:17,800 --> 00:22:27,800
+[sings]
+
+122
+00:22:27,800 --> 00:22:35,800
+[sings]
+
+123
+00:22:35,800 --> 00:22:45,800
+[sings]
+
+124
+00:22:45,800 --> 00:22:55,800
+[sings]
+
+125
+00:22:55,800 --> 00:23:15,800
+[sings]
+
+126
+00:23:15,800 --> 00:23:25,800
+[sings]
+
+127
+00:23:25,800 --> 00:23:35,800
+[sings]
+
+128
+00:23:35,800 --> 00:23:45,800
+[sings]
+
+129
+00:23:45,800 --> 00:23:55,800
+[sings]
+
+130
+00:23:55,800 --> 00:24:05,800
+[sings]
+
+131
+00:24:05,800 --> 00:24:15,800
+[sings]
+
+132
+00:24:15,800 --> 00:24:25,800
+[sings]
+
+133
+00:24:25,800 --> 00:24:35,800
+[sings]
+
+134
+00:24:35,800 --> 00:24:55,800
+[sings]
+
+135
+00:24:55,800 --> 00:25:05,800
+[sings]
+
+136
+00:25:05,800 --> 00:25:15,800
+[sings]
+
+137
+00:25:15,800 --> 00:25:19,800
+[sings]
+
+138
+00:25:19,800 --> 00:25:29,800
+[sings]
+
+139
+00:25:29,800 --> 00:25:39,800
+[sings]
+
+140
+00:25:39,800 --> 00:25:43,800
+[sings]
+
+141
+00:25:43,800 --> 00:25:53,800
+[sings]
+
+142
+00:25:53,800 --> 00:26:03,800
+[sings]
+
+143
+00:26:03,800 --> 00:26:07,800
+[sings]
+
+144
+00:26:07,800 --> 00:26:17,800
+[sings]
+
+145
+00:26:17,800 --> 00:26:27,800
+[sings]
+
+146
+00:26:27,800 --> 00:26:31,800
+[sings]
+
+147
+00:26:31,800 --> 00:26:41,800
+[sings]
+
+148
+00:26:41,800 --> 00:26:51,800
+[sings]
+
+149
+00:26:51,800 --> 00:26:55,800
+[sings]
+
+150
+00:26:55,800 --> 00:27:05,800
+[sings]
+
+151
+00:27:05,800 --> 00:27:15,800
+[sings]
+
+152
+00:27:15,800 --> 00:27:19,800
+[sings]
+
+153
+00:27:19,800 --> 00:27:29,800
+[sings]
+
+154
+00:27:29,800 --> 00:27:39,800
+[sings]
+
+155
+00:27:39,800 --> 00:27:43,800
+[sings]
+
+156
+00:27:43,800 --> 00:27:53,800
+[sings]
+
+157
+00:27:53,800 --> 00:28:03,800
+[sings]
+
+158
+00:28:03,800 --> 00:28:07,800
+[sings]
+
+159
+00:28:07,800 --> 00:28:11,800
+[sings]
+
+160
+00:28:11,800 --> 00:28:21,800
+[sings]
+
+161
+00:28:21,800 --> 00:28:31,800
+[sings]
+
+162
+00:28:31,800 --> 00:28:33,800
+[sings]
+
+163
+00:28:33,800 --> 00:28:35,800
+[sings]
+
+164
+00:28:35,800 --> 00:28:37,800
+[sings]
+
+165
+00:28:37,800 --> 00:28:47,800
+[sings]
+
+166
+00:28:47,800 --> 00:28:51,800
+[sings]
+
+167
+00:28:51,800 --> 00:28:55,800
+[sings]
+
+168
+00:28:55,800 --> 00:28:57,800
+[sings]
+
+169
+00:28:57,800 --> 00:29:01,800
+[sings]
+
+170
+00:29:01,800 --> 00:29:05,800
+[sings]
+
+171
+00:29:05,800 --> 00:29:18,500
+by practicing it. Not only these two, one more yard stick to measure the quality of the
+
+172
+00:29:18,500 --> 00:29:28,980
+technique of meditation. The third yard stick, it looks very logical. If I practice, certainly
+
+173
+00:29:28,980 --> 00:29:37,500
+it will give me benefit, it has given benefit for these ten days. But by practicing it, will
+
+174
+00:29:37,500 --> 00:29:49,940
+any being be harmed, will it prove harmful to others? If so, not good. By practicing it,
+
+175
+00:29:49,940 --> 00:30:03,180
+will it also be beneficial to other beings if so, acceptable. If something is acceptable,
+
+176
+00:30:03,180 --> 00:30:12,180
+by using all these three yard sticks, then an intelligent person, a wise person should
+
+177
+00:30:12,180 --> 00:30:25,760
+have no hesitation to accept it. And a real wise person, when he accepts, she accepts,
+
+178
+00:30:25,760 --> 00:30:33,680
+it will not be acceptance merely at the devotional level, emotional level. It should not be an
+
+179
+00:30:33,680 --> 00:30:40,680
+acceptance merely at the intellectual level. Now the acceptance should be at the actual
+
+180
+00:30:40,680 --> 00:30:54,320
+level, at the level of practice. Then only it will give benefits throughout the life.
+
+181
+00:30:54,320 --> 00:31:04,440
+And one finds that it is acceptable at the actual level, then one surrenders. Ten days
+
+182
+00:31:04,440 --> 00:31:11,600
+ago you surrendered because you were asked to surrender. Without surrendering you would
+
+183
+00:31:11,600 --> 00:31:19,440
+not have been able to give a fair trial to the technique, going back home. When you decide
+
+184
+00:31:19,440 --> 00:31:27,560
+to surrender, it will not be because somebody asked you to surrender. It will be with your
+
+185
+00:31:27,560 --> 00:31:36,960
+own free will. Now you understood, this is the path for me. This is the practice for
+
+186
+00:31:36,960 --> 00:31:49,040
+me. It is so universal, so scientific, so logical and so resultorian oriented. I have
+
+187
+00:31:49,040 --> 00:32:00,160
+to live this life. So I surrender to Dhamma, not with a time limit. Now the surrender will
+
+188
+00:32:00,160 --> 00:32:13,440
+be with a free will and it will be for the whole life. Whole life I have to live in Dhamma.
+
+189
+00:32:13,440 --> 00:32:27,660
+Dhamma has to become a part of my life. Without Dhamma the life will be purposeless. The
+
+190
+00:32:27,660 --> 00:32:38,800
+life of a human being is a real life of human being if one applies Dhamma in life, practices
+
+191
+00:32:38,800 --> 00:32:50,720
+Dhamma, so one surrenders and tries to live the life of Dhamma, life of Sheila, morality,
+
+192
+00:32:50,720 --> 00:33:01,040
+life of Samadhi, developing mastery over the mind, life of Panya, developing one's own wisdom
+
+193
+00:33:01,040 --> 00:33:13,160
+to purify the mind, life of Mehta, Karuna, love, compassion, goodwill for all others.
+
+194
+00:33:13,160 --> 00:33:25,200
+One has to live this life. Dhamma is Dhamma only when it is applied in life. A Dhamma
+
+195
+00:33:25,200 --> 00:33:39,600
+of scripture is not Dhamma. A Dhamma in the discourses of the teacher is not Dhamma.
+
+196
+00:33:39,600 --> 00:33:48,520
+The literal meaning of the word Dhamma is Dharati, Dhamma. When you apply it because
+
+197
+00:33:48,520 --> 00:33:59,480
+you apply it, so it is Dhamma. If it is not applied in life, if one does not practice Dhamma,
+
+198
+00:33:59,480 --> 00:34:08,520
+one may keep on playing emotional games, devotional games, intellectual games. Throughout the life one
+
+199
+00:34:08,520 --> 00:34:20,440
+will not get any benefit. It will be mere waste of time, waste of life. The practical aspect
+
+200
+00:34:20,440 --> 00:34:31,400
+of Dhamma, this alone gives benefit and you attended this 10 day schools to learn the
+
+201
+00:34:31,400 --> 00:34:41,400
+practical aspect of Dhamma. How to apply Dhamma in life? This is what you had been doing
+
+202
+00:34:41,400 --> 00:34:52,800.0000000002328
+last 10 days from morning 4, 4, 30 till 9, 9, 9, 30, you are working, working. Where is
+
+203
+00:34:52,800.0000000002328 --> 00:35:07,240
+the life of a Shailah, who is very diligently practicing samadhi and very wisely developing
+
+204
+00:35:07,240 --> 00:35:20,700
+your panya and purifying your mind, all practical. If it was only an intellectual game, then not
+
+205
+00:35:20,700 --> 00:35:36,180
+necessary to join a 10 days prison like this. You could have listened to Dhamma discourses
+
+206
+00:35:36,180 --> 00:35:43,860
+on a audio tape or on a video tape, just staying at your home. Why spend 10 days? Because to
+
+207
+00:35:43,860 --> 00:35:55,380
+learn how to practice it, it is the practical part of Dhamma which is very important. Of course,
+
+208
+00:35:55,380 --> 00:36:05,900
+every evening they used to be discourse, Dhamma talk for about an hour or so. This was not
+
+209
+00:36:05,900 --> 00:36:15,220
+for intellectual entertainment. This was not to prove the superiority of this particular
+
+210
+00:36:15,220 --> 00:36:22,980
+sect or that particular belief, nothing doing. The Dhamma talk was to explain the technique,
+
+211
+00:36:22,980 --> 00:36:29,380
+how you should practice and why you should practice in this particular way, just to understand
+
+212
+00:36:29,380 --> 00:36:37,140
+it. But when Dhamma talks are given, although they are meant to explain the practical aspect
+
+213
+00:36:37,140 --> 00:36:46,820
+of Dhamma, but intentionally or unintentionally, at times the theoretical aspect of Dhamma
+
+214
+00:36:46,820 --> 00:36:58,100
+comes to life in these Dhamma talks. And at times, someone may have difficulty to accept
+
+215
+00:36:58,100 --> 00:37:06,380
+certain part of the theoretical aspect of Dhamma. Dhamma is universal. Therefore, people
+
+216
+00:37:06,380 --> 00:37:14,500
+keep coming from different sects, from different communities, from different religions, from
+
+217
+00:37:14,500 --> 00:37:23,760
+different beliefs, from different traditions, having different dogmas. They are all welcome.
+
+218
+00:37:23,760 --> 00:37:31,960
+Because Dhamma is Dhamma universal, everyone gets the same benefit. People coming from different
+
+219
+00:37:31,960 --> 00:37:42,360
+backgrounds, sometimes in the first ten days, they have some hesitation to accept certain
+
+220
+00:37:42,360 --> 00:37:50,600
+part of the theoretical aspect of Dhamma. So, for a practical aspect of Dhamma is concerned,
+
+221
+00:37:50,600 --> 00:37:58,200
+I have not come across a single person coming from any community, any country, any tradition,
+
+222
+00:37:58,200 --> 00:38:10,320
+to have any objection, any religion worth the name. Can you tell anything against Celia?
+
+223
+00:38:10,320 --> 00:38:15,320
+Every religion will ask us to live the life of Celia, to live the life of morality. This
+
+224
+00:38:15,320 --> 00:38:24,960
+is what one is doing here. Any religion worth the name, can not have anything against a practice
+
+225
+00:38:24,960 --> 00:38:34,680
+which makes us master of our own mind. To remain a slave of the mind is so dangerous, so
+
+226
+00:38:34,680 --> 00:38:44,800
+harmful. To develop mastery over the mind and that too, be the object which is universal,
+
+227
+00:38:44,800 --> 00:38:50,800
+the object is respiration, which is not limited to a particular sect or particular religion
+
+228
+00:38:50,800 --> 00:38:57,080
+or particular belief or particular dogma. It truth pertaining to your own self, the breath
+
+229
+00:38:57,080 --> 00:39:07,560
+coming in, the breath going out, nobody ever objects to that. And the practice of Panya develops
+
+230
+00:39:07,560 --> 00:39:14,920
+your own wisdom and see how you are generating negativities and you become miserable. You stop
+
+231
+00:39:14,920 --> 00:39:22,560
+generating negativities, you come out of your misery, your mind becomes pure and pure. Nobody
+
+232
+00:39:22,560 --> 00:39:30,040
+ever objects because again the object is truth pertaining to your own mind and matter,
+
+233
+00:39:30,040 --> 00:39:39,680
+the contact of the two resulting in this sensation or that sensation, natural, universal,
+
+234
+00:39:39,680 --> 00:39:47,120
+not limited to a particular sect, particular community, particular religion. So the practical
+
+235
+00:39:47,120 --> 00:39:55,480
+aspect of Thamma is always acceptable by everyone but in theory at times some difficulties
+
+236
+00:39:55,480 --> 00:40:05,280
+arise. So whatever you heard during these 10 days, if anyone of you find a certain aspect
+
+237
+00:40:05,280 --> 00:40:14,360
+of the theory is not acceptable, it doesn't matter, leave it aside. Accept whatever is acceptable.
+
+238
+00:40:14,360 --> 00:40:21,080
+After all, when you realize that what I thought was unacceptable is also acceptable now, then
+
+239
+00:40:21,080 --> 00:40:27,000
+accept it. And even if you don't accept the whole life, it doesn't matter, you not lost
+
+240
+00:40:27,000 --> 00:40:33,200
+anything. Practice is more important. So long as you are practicing Silla, Samadhi,
+
+241
+00:40:33,200 --> 00:40:42,040
+Panya, Silla, Samadhi, Panya, you are practicing them and you get benefit out of it. It is the
+
+242
+00:40:42,040 --> 00:40:58,480
+practical aspect of Thamma, which is of utmost importance. There is a story, a professor,
+
+243
+00:40:58,480 --> 00:41:08,560
+young professor, not matured in life, but very highly educated. A number of alphabets after
+
+244
+00:41:08,560 --> 00:41:23,320
+his name, long tale of alphabets, was travelling by a ship. And in the ship, there was also a
+
+245
+00:41:23,320 --> 00:41:32,560
+sailor, a worker, a very old man, illiterate. Sometimes he will come to the cabin of the
+
+246
+00:41:32,560 --> 00:41:39,120
+professor, listen to his words of wisdom, what an intelligent person, what a learned person,
+
+247
+00:41:39,120 --> 00:41:46,840
+wonderful person. And one day, after some talk when the old man was leaving, the professor
+
+248
+00:41:46,840 --> 00:42:01,480
+asked him, "Old man, have you studied? Have you studied geology? What is geology, sir? I
+
+249
+00:42:01,480 --> 00:42:05,880
+don't know. I have not been to any school, I have not been to any college. Please tell me,
+
+250
+00:42:05,880 --> 00:42:12,640
+what is geology? Geology is the science of the earth. Have you studied? No, sir, as I said,
+
+251
+00:42:12,640 --> 00:42:20,720
+I have not studied anything. Oh, old man, so unfortunate, you have not studied geology. You
+
+252
+00:42:20,720 --> 00:42:26,840
+wasted one quarter of your life. The old man very sad, he is a long face, goes out. Such
+
+253
+00:42:26,840 --> 00:42:31,700
+a learned person says, "I have wasted quarter of my life. Certainly, I must have wasted
+
+254
+00:42:31,700 --> 00:42:38,960
+quarter of my life." Next day, when he came, again after long talk, when he was leaving,
+
+255
+00:42:38,960 --> 00:42:47,840
+again the professor asked him, "Old man, have you studied oceanology? What is that, sir?
+
+256
+00:42:47,840 --> 00:42:54,520
+This science of the ocean, the sea, oh no, sir, I have not studied anything. What an unfortunate
+
+257
+00:42:54,520 --> 00:43:01,880
+person. You have wasted half of your life. Old man, very sorry, at least wasted half of
+
+258
+00:43:01,880 --> 00:43:08,280
+my life." And third day, again he was questioned, "Old man, have you studied materialology? What
+
+259
+00:43:08,280 --> 00:43:17,800
+is this, sir?" I never heard this name. Science of the wind, the rain, the weather, no, sir,
+
+260
+00:43:17,800 --> 00:43:23,040
+as I said, I have never been to any school or college. I have not studied anything. Old
+
+261
+00:43:23,040 --> 00:43:29,000
+man, you are so unfortunate. You have not studied geology, the science of the earth on which
+
+262
+00:43:29,000 --> 00:43:34,840
+you are living. You have not studied oceanology, the science of the sea on which you travel
+
+263
+00:43:34,840 --> 00:43:40,040
+every day. You have not studied materialology, the science of the wind, the rain, the weather
+
+264
+00:43:40,040 --> 00:43:47,320
+which you encounter every day, very unfortunate. You have wasted three quarter of your life.
+
+265
+00:43:47,320 --> 00:43:53,360
+Old man, very sorry, I wasted three quarter of my life. The next day it was the turn of
+
+266
+00:43:53,360 --> 00:44:01,280
+the old man. He came running, "Professor, sir, professor, have you studied biology? What
+
+267
+00:44:01,280 --> 00:44:12,240
+is biology? Can you swim, sir, or no old man, I can't swim? I am so sorry, professor, sir.
+
+268
+00:44:12,240 --> 00:44:22,680
+You have wasted all your life. There is a ship right now, and this ship is going to sink.
+
+269
+00:44:22,680 --> 00:44:27,440
+Those who consume, they will reach the shore there. Those who can't swim, I am so sorry
+
+270
+00:44:27,440 --> 00:44:39,120
+for you. Pee me learn all the loges of the world, and we don't learn simology, then what is
+
+271
+00:44:39,120 --> 00:44:49,240
+the use of all these loges? And simology also, if you keep on reading books on simology, and
+
+272
+00:44:49,240 --> 00:44:54,120
+keep on discussing about simology without touching the water, then what is the use of this
+
+273
+00:44:54,120 --> 00:45:00,400
+simology also? We want us to learn actually how to swim, because we want us to swim the
+
+274
+00:45:00,400 --> 00:45:08,240
+ocean of misery, and these the other shore, free from misery. And this is dhamma. This is
+
+275
+00:45:08,240 --> 00:45:15,400
+the practical aspect of dhamma. This alone gives benefit.
+
+276
+00:45:15,400 --> 00:45:23,760
+Spirituality, intellectualization does not help. Meer, devotionalization does not help. The
+
+277
+00:45:23,760 --> 00:45:32,560
+actual experience, and these 10 days, this is what you are doing. As I said, the practical
+
+278
+00:45:32,560 --> 00:45:38,600
+aspect is of what most importance, but in theory, if you find some difficulty, take it out,
+
+279
+00:45:38,600 --> 00:45:47,840
+or nothing wrong. Again, there is a story in our country, a mother, out of all the love
+
+280
+00:45:47,840 --> 00:45:58,040
+on compassion and good will. Prepared a very delicious dish for the child, very delicious.
+
+281
+00:45:58,040 --> 00:46:04,560
+We call it a dish of keel, milk pudding, made from very good quality milk, very good quality
+
+282
+00:46:04,560 --> 00:46:14,720
+rice, I am sweet and dry fruits, etc., a very delicious dish was offered to the child. And
+
+283
+00:46:14,720 --> 00:46:22,960
+this is no, I won't take it. Hey, what's wrong? I won't take it. It is not in my plate. My
+
+284
+00:46:22,960 --> 00:46:29,360
+plate is more important. Mother had to give the dish, alright, you are plate. Take it,
+
+285
+00:46:29,360 --> 00:46:36,360
+you are plate. Be happy. Again, it says, no, I won't take. Now it's your plate, why not?
+
+286
+00:46:36,360 --> 00:46:47,440
+Oh, there is a small, black little stone in it. I can't take it. It is not black stone. It
+
+287
+00:46:47,440 --> 00:46:54,000
+has its own taste. It is cardimum. You try it, it is so good. No, I can't take it. It's
+
+288
+00:46:54,000 --> 00:47:00,360
+black stone in it. There is black stone in it. Poor mother, what she will say. She says,
+
+289
+00:47:00,360 --> 00:47:06,160
+alright, if you think this is black stone, take it out. Enjoy the rest. Later on, when you
+
+290
+00:47:06,160 --> 00:47:10,960
+realize that this is also tasty, then enjoy it later on. But now take it out. Enjoy the
+
+291
+00:47:10,960 --> 00:47:17,080
+rest. The mad child will throw with the whole plate. There was a black stone in it. There
+
+292
+00:47:17,080 --> 00:47:23,420
+was a black stone in it. So don't throw with the entire theoretical aspect of dhamma,
+
+293
+00:47:23,420 --> 00:47:30,420
+whatever you find, black stone, take it out. Enjoy the rest. The mother has given with
+
+294
+00:47:30,420 --> 00:47:39,420
+all the good will, with all the love, with all the compassion. Actually, there is nothing
+
+295
+00:47:39,420 --> 00:47:45,460
+like black stone. But because of the traditions, when come from a particular tradition, when
+
+296
+00:47:45,460 --> 00:47:55,140
+you feel, no, this is not good. First thing, it must be in my play. That means the terminology,
+
+297
+00:47:55,140 --> 00:48:02,420
+the words must be the same as used in my tradition. Otherwise, I can't accept. Alright, your terminology,
+
+298
+00:48:02,420 --> 00:48:08,180
+dhamma is dhamma. Dhamma is not a matter. So long as you understand the essence of dhamma.
+
+299
+00:48:08,180 --> 00:48:12,460
+And then any difficulty in the theory, take that out and later on you accept it. But the
+
+300
+00:48:12,460 --> 00:48:19,460
+practical aspect, nothing has to be taken out. Silla, samadhi, panya, nothing has to be taken
+
+301
+00:48:19,460 --> 00:48:30,660
+out. Practicing here for ten days, you took just a very tiny step path, it's very long,
+
+302
+00:48:30,660 --> 00:48:42,140
+that has to be accepted. It's a very long path. A lifetime job, maybe a few more lives. It
+
+303
+00:48:42,140 --> 00:48:53,340
+is a long path. But however long the path may be, the longest path starts with the first step.
+
+304
+00:48:53,340 --> 00:48:58,220
+One was not taken even the first step on the right path. There is no hope for this person
+
+305
+00:48:58,220 --> 00:49:04,580
+to reach the final goal. One was taken even one step on the path. There is every hope, this
+
+306
+00:49:04,580 --> 00:49:09,980
+person will take the second step, the third step, unlike this step by step, step by step,
+
+307
+00:49:09,980 --> 00:49:17,100
+will cover the entire path and this is the goal. You are fortunate, you have taken the first
+
+308
+00:49:17,100 --> 00:49:24,260
+step on the path. And I am sure step by step, step by step, you will keep on marching on
+
+309
+00:49:24,260 --> 00:49:31,300
+the path and this is the final goal. First step is a very tiny step, but very valuable
+
+310
+00:49:31,300 --> 00:49:39,180
+step, very valuable. I don't devalue what you practice here. But the fact has to be
+
+311
+00:49:39,180 --> 00:49:46,660
+accepted that this is a very tiny step on the path and path is very long. It is like you
+
+312
+00:49:46,660 --> 00:49:59,020
+have planted a seed, a seed planted in a very fertile soil. The soil is fertile, there
+
+313
+00:49:59,020 --> 00:50:05,820
+is no doubt about that. Otherwise it would not have come to take seed here. You have your own
+
+314
+00:50:05,820 --> 00:50:13,080
+palm is of the past which brought you here. The seed is planted. However good quality the
+
+315
+00:50:13,080 --> 00:50:22,980
+seed may be, however fertile the land may be, yet if proper service is not given to this
+
+316
+00:50:22,980 --> 00:50:34,940
+plant, this seed, one does not get fruits. A small little plant has sprouted out of this
+
+317
+00:50:34,940 --> 00:50:42,060
+seed during these 10 days and now you have to serve it. Like an experienced gardener gives
+
+318
+00:50:42,060 --> 00:50:49,780
+old service to small nursery. This is a small nursery now. You have to keep a fence around
+
+319
+00:50:49,780 --> 00:50:56,420
+it so that a kettle may not come and eat it away. You have to give proper water at proper
+
+320
+00:50:56,420 --> 00:51:04,420
+time, proper sun shade, proper sun at proper time so that it grows. It grows, it grows,
+
+321
+00:51:04,420 --> 00:51:16,620
+it will grow in a huge tree with thick trunk, deep roots, then it will not require any service.
+
+322
+00:51:16,620 --> 00:51:27,140
+No gardener takes care of a huge tree with thick roots, deep roots and thick trunk, not necessary.
+
+323
+00:51:27,140 --> 00:51:33,740
+On the other hand this very tree which took so much service starts giving us now whatever
+
+324
+00:51:33,740 --> 00:51:41,140
+it produces, it produces for us. All the flowers, the fruits, the shade, everything is for us.
+
+325
+00:51:41,140 --> 00:51:52,540
+Similarly this tiny little plant of dhamma which has sprouted out during these 10 days, you
+
+326
+00:51:52,540 --> 00:51:59,620
+have to take great care of it at the initial stage. You have to keep a fence around it so
+
+327
+00:51:59,620 --> 00:52:05,580
+that the kettle may not come and eat it away. You have to give proper water at time, proper
+
+328
+00:52:05,580 --> 00:52:15,780
+time. All the service necessary and when it grows into a huge tree then no service necessary.
+
+329
+00:52:15,780 --> 00:52:24,420
+It will start serving you in every aspect, every way. What fence? Which kettle will come
+
+330
+00:52:24,420 --> 00:52:33,820
+and eat it away. Going back home you will meet your relatives, your friends, members of
+
+331
+00:52:33,820 --> 00:52:39,340
+your community, of your society and certainly out of inquisitiveness they ask you where
+
+332
+00:52:39,340 --> 00:52:46,180
+you went. What you did? And dhamma is your open book no secrecy. You will tell I did this,
+
+333
+00:52:46,180 --> 00:52:53,180
+I did this, I practiced this, I practiced this and someone a very confused person will
+
+334
+00:52:53,180 --> 00:53:01,780
+say, "Oh, but this is not our religion, this is not our religion." It is so dangerous to
+
+335
+00:53:01,780 --> 00:53:07,620
+practice somebody else's religion, but a die in your own religion, then practice somebody
+
+336
+00:53:07,620 --> 00:53:15,580
+else's religion and you will get frightened and you stop meditation. Oh, the kettle is
+
+337
+00:53:15,580 --> 00:53:24,700
+eaten away, eaten away the plant corn. You keep a fence. What fence? You tell this person,
+
+338
+00:53:24,700 --> 00:53:30,900
+"Well, look, whatever I am practicing is within this fence, not beyond the fence." And
+
+339
+00:53:30,900 --> 00:53:36,700
+within the fence is Srilai, morality. If I live the life of morality, what abduction
+
+340
+00:53:36,700 --> 00:53:44,060
+you have got? How I am harming you or how I am harming the tradition? No, no harm. Within
+
+341
+00:53:44,060 --> 00:53:49,940
+the fence is Samadhi, I am trying to be master of my own mind, I trying to concentrate my mind
+
+342
+00:53:49,940 --> 00:53:56,340
+with the help of respiration. What abduction? There can't be any abduction. Within the fence
+
+343
+00:53:56,340 --> 00:54:03,140
+is Panya, wisdom to eradicate impurities of the mind, to come out of the complexes at the
+
+344
+00:54:03,140 --> 00:54:09,540
+deepest level of the mind. What abduction? And within this fence is developing the good
+
+345
+00:54:09,540 --> 00:54:16,580
+qualities of love, compassion, good will, service to others, selfless service. What abduction?
+
+346
+00:54:16,580 --> 00:54:25,460
+Nobody can object. Your plant is saved. No kettle is eaten up and it will keep on growing,
+
+347
+00:54:25,460 --> 00:54:31,260
+growing. But you have to water it every day, every day, morning and evening, one hour
+
+348
+00:54:31,260 --> 00:54:41,820
+in the morning, one hour in the evening, minimum. You have to water it. A new student sometimes
+
+349
+00:54:41,820 --> 00:54:48,900
+feels very hesitant. Two hours of my day, I am such a busy person, how can I spare two hours
+
+350
+00:54:48,900 --> 00:54:59,620
+of your day or know this is too much? Initially, it looks too much. It is not too much. For the
+
+351
+00:54:59,620 --> 00:55:08,060
+first one year, you have to take a very strong aditthan, strong decision. Let me lose anything
+
+352
+00:55:08,060 --> 00:55:13,820
+at the mundane level, I don't care. But I will practice every day, morning and evening,
+
+353
+00:55:13,820 --> 00:55:21,060
+one hour, one hour. And you won't lose anything. This is only to have a strong decision, aditthan.
+
+354
+00:55:21,060 --> 00:55:27,940
+Initial difficulties will be there. Like coming to a course on the fourth day, you are given
+
+355
+00:55:27,940 --> 00:55:35,620
+a ditthan. For one hour, you don't change your position, your posture. So much difficult.
+
+356
+00:55:35,620 --> 00:55:41,140
+I am practicing, practicing within ten days. You start sitting easily. So also, initially,
+
+357
+00:55:41,140 --> 00:55:46,060
+you will have difficulty. How to spare one hour in the morning, one hour in the evening?
+
+358
+00:55:46,060 --> 00:55:51,780
+But having this strong determination within one year, you find it becomes so easy. And
+
+359
+00:55:51,780 --> 00:56:00,140
+after that, it becomes so easy in life. It won't take even one year to realize that it is so
+
+360
+00:56:00,140 --> 00:56:08,340
+easy. You will start understanding that I am not wasting two hours of my life, two hours
+
+361
+00:56:08,340 --> 00:56:18,660
+of my day, every day. Your capacity to work will increase. Your time given to sleep will
+
+362
+00:56:18,660 --> 00:56:25,100
+decrease. Those who are accustomed to sleep say eight hour every night will now seven hour
+
+363
+00:56:25,100 --> 00:56:30,300
+enough. Those who sleep seven hours, they will find six hours enough. Those who sleep six
+
+364
+00:56:30,300 --> 00:56:35,820
+hours will find five hours enough, not necessary. So one hour, you can easily take out of your
+
+365
+00:56:35,820 --> 00:56:43,380
+sleep. And even when you get awakened, are you really awakened? Lying here, lazy lying
+
+366
+00:56:43,380 --> 00:56:49,780
+there, lazy so much time is wasted in that, with a Vipassana, for a Vipassana, meditate. Every
+
+367
+00:56:49,780 --> 00:56:55,220
+moment is so valuable. Can't afford to waste time. You will be active. As soon as you wake
+
+368
+00:56:55,220 --> 00:57:00,140
+up, you are active with your responsibilities, with your daily responsibilities. And the
+
+369
+00:57:00,140 --> 00:57:07,620
+capacity will certainly increase. Anyone in any profession, any means of livelihood will
+
+370
+00:57:07,620 --> 00:57:15,180
+find that the capacity to workers increase so much. Before practicing Vipassana, if one
+
+371
+00:57:15,180 --> 00:57:24,500
+used to work eight hours per day, at the end of eight hours one felt so exhausted, so tired.
+
+372
+00:57:24,500 --> 00:57:29,700
+Practicing Vipassana morning and evening. Whatever work one used to finish in eight hours,
+
+373
+00:57:29,700 --> 00:57:35,380
+now it is over in seven hours and six hours. And yet feels so fresh, feels like working
+
+374
+00:57:35,380 --> 00:57:47,620
+more, the capacity increases. Case of my own teacher, Siaji Ubhakin, a wonderful person.
+
+375
+00:57:47,620 --> 00:57:54,980
+One Burma became independent. He was made the first accountant general of Burma. He was
+
+376
+00:57:54,980 --> 00:58:02,060
+born in a very poor family. The family had no money to give him higher education. He just
+
+377
+00:58:02,060 --> 00:58:09,060
+had education of high school. And then started doing service here and there. Got a very junior
+
+378
+00:58:09,060 --> 00:58:18,300
+clerks job in the accountant general's office. And by his hard work, perseverance, he reached
+
+379
+00:58:18,300 --> 00:58:25,260
+a certain stage. A junior officer, one Burma became independent. And naturally independent
+
+380
+00:58:25,260 --> 00:58:30,420
+Burma's government wanted their own nationals to be heads of different departments. And most
+
+381
+00:58:30,420 --> 00:58:37,660
+of the departments were headed by Britishers or Indians, etc. In the accountant general's
+
+382
+00:58:37,660 --> 00:58:42,700
+office, they found this person, Ubhakin, although a very junior officer. He was the only Burma's
+
+383
+00:58:42,700 --> 00:58:52,140
+officer, so they made him the accountant general. The first accountant general of Burma.
+
+384
+00:58:52,140 --> 00:58:59,100
+Before he reached that stage, he had started practicing Vipassana. When he was a junior clerk,
+
+385
+00:58:59,100 --> 00:59:05,000
+he heard that on the other bank of the river, there is a teacher, a farmer who is teaching
+
+386
+00:59:05,000 --> 00:59:13,660
+Vipassana. Anybody who has got seed of Vipassana from the past, a seed of Dhamma from the past,
+
+387
+00:59:13,660 --> 00:59:20,300
+cannot resist. Aslam is one here, Vipassana. Oh, it is for me. I better go and try. I better
+
+388
+00:59:20,300 --> 00:59:27,640
+go and try. And this is started happening in him. I must go and try. This is wonderful.
+
+389
+00:59:27,640 --> 00:59:33,080
+But the high officials won't give him ten days leave. They say, "This is the time of budget.
+
+390
+00:59:33,080 --> 00:59:37,680
+Every staff is needed so much. So badly, we can't give you leave." And he says, "But I have
+
+391
+00:59:37,680 --> 00:59:43,520
+to go. You even cut my salary for ten days. No, nothing doing. You can't go. If you go,
+
+392
+00:59:43,520 --> 00:59:52,120
+you will be dismissed from the service. You can't resist. Event. Event away. After ten days,
+
+393
+00:59:52,120 --> 00:59:59,080
+because of his past parmes, he reached such giddy heights in Vipassana. But it is so much.
+
+394
+00:59:59,080 --> 01:00:06,720
+But when he came back, there was a doubt that perhaps he will be dismissed, came to the office,
+
+395
+01:00:06,720 --> 01:00:14,560
+and yes, on his table, there was the envelope, official envelope. He opened it. And this message
+
+396
+01:00:14,560 --> 01:00:20,440
+says that you are promoted. Now you have become the superintendent of the office, chief
+
+397
+01:00:20,440 --> 01:00:27,600
+superintendent. Your salary goes fifty percent high. This does not mean that everyone who
+
+398
+01:00:27,600 --> 01:00:36,320
+come here will get a letter of promotion going to the office. Who knows? There are cases.
+
+399
+01:00:36,320 --> 01:00:41,120
+People keep on writing me that after coming back from the course, "I got this, I got that,
+
+400
+01:00:41,120 --> 01:00:45,400
+but this is not a guarantee. It happens in different cases." It happened in the case of
+
+401
+01:00:45,400 --> 01:00:49,800
+who came back in, and then he kept on getting promotion after promotion, he became accountant
+
+402
+01:00:49,800 --> 01:00:57,880
+general of Arman. And the accountant general's office, like many other offices, a lot of corruption,
+
+403
+01:00:57,880 --> 01:01:05,160
+a lot of bribery. People who are to take their legitimate money from the government and
+
+404
+01:01:05,160 --> 01:01:12,680
+the application is filed there. Certain percentage was deducted and was distributed right from
+
+405
+01:01:12,680 --> 01:01:18,800
+the attorney general to the accountant general to the peon. There are so good at accounts.
+
+406
+01:01:18,800 --> 01:01:25,680
+So they know what proportion who should get. Now, Uba Ken is accountant general, such a
+
+407
+01:01:25,680 --> 01:01:34,800
+dhamma person, not possible. And he was a very strict disciplinarian. He issued an order
+
+408
+01:01:34,800 --> 01:01:43,680
+that any application comes to the office. The concerned person must give a decision within
+
+409
+01:01:43,680 --> 01:01:49,640
+48 hours. If there is a complication, one cannot take a decision, bring it to me. I will
+
+410
+01:01:49,640 --> 01:01:57,400
+take a decision. One is not taking a decision, not bringing the case to me, has bad intentions.
+
+411
+01:01:57,400 --> 01:02:06,800
+You will be dismissed. But that alone did not work. It was dhamma. In his office itself,
+
+412
+01:02:06,800 --> 01:02:12,360
+he started teaching Vipashana. He went to the prime minister and told him, sir, you made
+
+413
+01:02:12,360 --> 01:02:18,200
+me accountant general good. But look, there is so much corruption everywhere. And unless
+
+414
+01:02:18,200 --> 01:02:26,320
+people practice Vipashana, they can't live a real moral life, a good life. Permit me to
+
+415
+01:02:26,320 --> 01:02:34,760
+have one room where a few workers of this office, every month, take a course of 10 days. The
+
+416
+01:02:34,760 --> 01:02:41,520
+prime minister was also a very good dhamma person. He wanted the administration to become
+
+417
+01:02:41,520 --> 01:02:47,520
+very pure good. He said, all right, go ahead. And every month there is a 10 day Vipashana
+
+418
+01:02:47,520 --> 01:02:54,400
+course in the office of accountant general. And that started giving result. In a few years
+
+419
+01:02:54,400 --> 01:02:58,680
+time, it was a talk of the town that in accountant general office, there is no more bribery, no
+
+420
+01:02:58,680 --> 01:03:07,080
+more corruption. And the prime minister called Subhakan. How is it? But is it good or bad?
+
+421
+01:03:07,080 --> 01:03:12,280
+It's very good to back in. But I want this to happen in other ministries, other departments.
+
+422
+01:03:12,280 --> 01:03:17,840
+Look, that department, this department, sir, I am a civil servant. You transfer me there.
+
+423
+01:03:17,840 --> 01:03:23,440
+I will start working the same thing there also. Oh no, no. If I transfer you somewhere,
+
+424
+01:03:23,440 --> 01:03:28,000
+then again this department will sink. So you'll be here. And at the same time, you look
+
+425
+01:03:28,000 --> 01:03:35,720
+after this. You look after that. It was a time when he was head of four departments. So huge
+
+426
+01:03:35,720 --> 01:03:44,880
+responsibility. And yet, kept on working so smileyly, giving wonderful results everywhere.
+
+427
+01:03:44,880 --> 01:03:51,080
+It was said about him that in whichever department he will go for one hour or two hours or five
+
+428
+01:03:51,080 --> 01:03:57,680
+hours. And any number of files that will come, any number of cases that will come on his table,
+
+429
+01:03:57,680 --> 01:04:02,440
+when he leaves that office, not a single case is there on the table. He gives decision
+
+430
+01:04:02,440 --> 01:04:10,120
+on every case. However complicated it may be. The mind becomes so clean. Any problem, you
+
+431
+01:04:10,120 --> 01:04:16,760
+can go to the depth of the problem and give a quick result and write result. The capacity
+
+432
+01:04:16,760 --> 01:04:25,760
+increases manifold, manifold. One works so much. The person that does not make one inactive,
+
+433
+01:04:25,760 --> 01:04:33,200
+one becomes so active, capacitive to work so much. People keep on asking me that this teaching
+
+434
+01:04:33,200 --> 01:04:39,080
+is not to crave, not to have attachment. Without craving, without attachment, how can
+
+435
+01:04:39,080 --> 01:04:44,120
+you work? How can anybody work? People work because they crave. People work because
+
+436
+01:04:44,120 --> 01:04:51,280
+they have got attachment. Oh, because you have not learned how to work in a detached way.
+
+437
+01:04:51,280 --> 01:04:55,800
+When you are attached, you are so tensed inside. You are so self-centered. I am working for
+
+438
+01:04:55,800 --> 01:05:03,440
+me, for me, for me. And once you become detached, all tension goes away. Now you work. All
+
+439
+01:05:03,440 --> 01:05:08,000
+those you work for your own livelihood, for those who depend on you to serve them. But
+
+440
+01:05:08,000 --> 01:05:13,520
+then a bigger outlook is there. What am I am working? I am working for others also. Look
+
+441
+01:05:13,520 --> 01:05:18,160
+so many people are getting benefited. So many people are getting, your mind is not narrow
+
+442
+01:05:18,160 --> 01:05:26,280
+now. It is so broad. Capacity to work. Increases all the tensions go away. Mind is so clear.
+
+443
+01:05:26,280 --> 01:05:33,000
+So tranquil. You make good decisions, right decisions, quick decisions. If this happened
+
+444
+01:05:33,000 --> 01:05:39,920
+only in one person, Ubaghin, perhaps people will say that it was some miracle. It happens
+
+445
+01:05:39,920 --> 01:05:46,240
+to so many. Students keep on writing me. My own experience is there. And students keep
+
+446
+01:05:46,240 --> 01:05:51,760
+on writing me that when I started practicing Vipashana everyday morning and evening, the
+
+447
+01:05:51,760 --> 01:05:58,440
+results of my profession are coming so good. I live such a peaceful life, such a harmonious
+
+448
+01:05:58,440 --> 01:06:05,320
+life. And I am so successful in my mundane life also. The mind is for both mundane as
+
+449
+01:06:05,320 --> 01:06:12,400
+well as supreme mundane. Therefore, giving one hour in the morning and one hour in the
+
+450
+01:06:12,400 --> 01:06:19,600
+evening, you are not wasting your time. For first year, all those who live practicing Vipashana
+
+451
+01:06:19,600 --> 01:06:25,960
+daily, they lived during the first year. Those who maintain for the first year, they maintain
+
+452
+01:06:25,960 --> 01:06:31,280
+easily for the whole life. That is why I say, have with Adityan, a strong determination
+
+453
+01:06:31,280 --> 01:06:38,280
+for one year, whatever happens, I will practice morning and evening. Any time that suits
+
+454
+01:06:38,280 --> 01:06:49,120
+you, which is suitable to your daily program, stick to that, it will be helpful. Any place
+
+455
+01:06:49,120 --> 01:06:57,640
+that suits you, stick to that. On that place, maybe just two feet by two feet, you are
+
+456
+01:06:57,640 --> 01:07:02,680
+sitting, you sit and meditate. No other activity should be done there except Vipashana.
+
+457
+01:07:02,680 --> 01:07:07,520
+Then you will grow vibration there. Later on, you will start feeling good vibration where
+
+458
+01:07:07,520 --> 01:07:12,560
+you daily meditate on the same seed. Like you get good vibration coming to a center like
+
+459
+01:07:12,560 --> 01:07:17,000
+this, where people only meditate Vipashana and no other activity. Similarly, in your house
+
+460
+01:07:17,000 --> 01:07:21,480
+also, if you have a place where no other activity is going on, just meditation and meditation
+
+461
+01:07:21,480 --> 01:07:27,040
+also, pure Vipashana and nothing else, I did, you start getting very good Vipashana there.
+
+462
+01:07:27,040 --> 01:07:35,440
+Same time, same place is very helpful, but it is not absolutely essential. Being householder,
+
+463
+01:07:35,440 --> 01:07:39,440
+sometimes you may be traveling, you cannot have the same place, you cannot have the same
+
+464
+01:07:39,440 --> 01:07:44,320
+time, then any time, any place, but don't miss your daily settings of one hour in the
+
+465
+01:07:44,320 --> 01:07:52,640
+morning, one hour in the evening. Besides that, although very little, just five minutes,
+
+466
+01:07:52,640 --> 01:07:59,240
+but I have seen it gives wonderful results when you go to bed. Lying down, close dyes, you
+
+467
+01:07:59,240 --> 01:08:03,980
+feel sensation anywhere, any chah, any chah, any chah, at least five minutes before you
+
+468
+01:08:03,980 --> 01:08:09,680
+sleep. And morning as you wake up, you must wake up and it will become a habit. You will
+
+469
+01:08:09,680 --> 01:08:13,860
+wake up with the awareness of any chah, any chah. You sleep with the awareness of any
+
+470
+01:08:13,860 --> 01:08:17,180.00000000046566
+chah, any chah, any chah. You wake up with the awareness of any chah, any chah, just
+
+471
+01:08:17,180.00000000046566 --> 01:08:23,439.99999999953434
+five minutes. Good enough. You will find whole night is made, made mind, the unconscious
+
+472
+01:08:23,439.99999999953434 --> 01:08:28,020.00000000046566
+mind which keeps on craving, abortion, craving, abortion. Now go to wonderful job, any chah,
+
+473
+01:08:28,020.00000000046566 --> 01:08:32,140.00000000046566
+any chah, any chah, any chah, whole night will be feeling any chah everywhere. It gives
+
+474
+01:08:32,140.00000000046566 --> 01:08:38,420
+wonderful results. Don't miss that. Every day, morning and evening, one hour, one hour,
+
+475
+01:08:38,420 --> 01:08:44,500
+five minutes before bed and five minutes when you are awakened, besides that, wherever
+
+476
+01:08:44,500 --> 01:08:52,340
+it is possible, wherever in a village, in a neighborhood, in a town, in a city, where
+
+477
+01:08:52,340 --> 01:08:59,899.9999999995343
+you have a few meritators, with personal meritators living together. And you can find a place
+
+478
+01:08:59,899.9999999995343 --> 01:09:06,100.00000000046566
+where at least once a week you can join together sit and meditate with a person, a joint meditation
+
+479
+01:09:06,100.00000000046566 --> 01:09:13,540
+once a week is very helpful, but that is possible, wherever it is possible. Say whole week,
+
+480
+01:09:13,540 --> 01:09:18,779.9999999995343
+there was some storm in your life and you could not meditate properly, not even anapana.
+
+481
+01:09:18,779.9999999995343 --> 01:09:24,580
+You can't feel any sensations, your mind is so unbalanced. And then at the weekend, you
+
+482
+01:09:24,580 --> 01:09:30,020.00000000046566
+sit with a few dhamma brothers and dhamma sisters, the atmosphere gets charged with the vibration
+
+483
+01:09:30,020.00000000046566 --> 01:09:35,020.00000000046566
+of a person, and your battery gets charged because of that, and you can practice very well
+
+484
+01:09:35,020.00000000046566 --> 01:09:41,140.00000000046566
+in the whole week, next week. You are strong enough. So this weekly sitting has given wonderful
+
+485
+01:09:41,140.00000000046566 --> 01:09:47,140.00000000046566
+results in many cases, but that is wherever it is possible. Those who live near, and if
+
+486
+01:09:47,140.00000000046566 --> 01:09:52,020.00000000046566
+they can afford, they can come to a center like this. Those people who live near the center,
+
+487
+01:09:52,020.00000000046566 --> 01:10:03,220
+they take advantage of the center. Besides this, again unavoidable, is a ten days retreat
+
+488
+01:10:03,220 --> 01:10:09,900
+every year. If you really want to get a stab list on the path, if you really want to see
+
+489
+01:10:09,900 --> 01:10:18,180
+good fruits of it in your daily life, that once a year, a retreat of ten days is absolutely
+
+490
+01:10:18,180 --> 01:10:26,380
+essential. You can join a camp like this, wherever there is a center, or wherever other
+
+491
+01:10:26,380 --> 01:10:31,940
+camps are being organized. You don't have such a facility, you are leaving somewhere
+
+492
+01:10:31,940 --> 01:10:38,140
+far. Then you can have your own self-course for ten days. Now you know the technique very
+
+493
+01:10:38,140 --> 01:10:44,020
+simple. Just have a room where you can live secluded from others, and they must be somebody
+
+494
+01:10:44,020 --> 01:10:50,220
+who can give you a morning break fast and 11 o'clock meal. On the same timetable, the same
+
+495
+01:10:50,220 --> 01:10:59,420
+procedure, the same technique, you start. You take a few intriple jam, take eight perceived
+
+496
+01:10:59,420 --> 01:11:07,140
+concepts, observe them, and three to three and a half days anapana, and then be passionate.
+
+497
+01:11:07,140 --> 01:11:15,100
+If you inform your teacher, you are died a few weeks ahead, good, but if you are not informed,
+
+498
+01:11:15,100 --> 01:11:21,120
+it doesn't matter. After all, what the teacher does. Even now, a teacher or a assistant
+
+499
+01:11:21,120 --> 01:11:28,300
+teacher, when they ask you to sit in front of you, there is no hypnotism, nothing doing.
+
+500
+01:11:28,300 --> 01:11:34,540
+But you learn to study, method. First, they will practice the same as they ask you to practice.
+
+501
+01:11:34,540 --> 01:11:40,500
+And then they start generating method. May you be successful. May you come out of your misery.
+
+502
+01:11:40,500 --> 01:11:46,940
+May you not be disturbed by any bad vibration around this method, this love, this compassion,
+
+503
+01:11:46,940 --> 01:11:51,980
+and the vibration of method can reach anywhere, how far you are. So the teacher will just give
+
+504
+01:11:51,980 --> 01:11:59,100
+you a method to solve. But even if you have not informed, you will be getting method, because
+
+505
+01:11:59,100 --> 01:12:07,180
+love nature is such. Love nature is such. Every moment when you are generating a vibration
+
+506
+01:12:07,180 --> 01:12:14,860
+of craving, aversion, ignorance, then all such vibrations in the world, you get tuned up
+
+507
+01:12:14,860 --> 01:12:20,420
+with that. You start getting support from those vibrations and you are craving, become stronger,
+
+508
+01:12:20,420 --> 01:12:23,740
+you are, aversion becomes stronger, you are ignorance becomes stronger, because you are tuned
+
+509
+01:12:23,740 --> 01:12:30,300
+up with that kind of vibration. But when you practice with a person, you get moments, when
+
+510
+01:12:30,300 --> 01:12:36,540
+you generate vibrations which are anti craving, anti aversion, anti ignorance, then you get
+
+511
+01:12:36,540 --> 01:12:42,180
+tuned up with such vibrations throughout the universe. The saints of the past are present,
+
+512
+01:12:42,180 --> 01:12:46,340
+those who practice with a person are, you get in contact with their vibration and that
+
+513
+01:12:46,340 --> 01:12:55,700
+vibration starts supporting you. The dhamma starts helping, provided you work in dhamma.
+
+514
+01:12:55,700 --> 01:13:03,100
+If you don't practice properly, then you can't expect the results. These things which are
+
+515
+01:13:03,100 --> 01:13:09,620
+least, minimum and are most essential, morning and evening, one hour, one hour, five minutes
+
+516
+01:13:09,620 --> 01:13:17,220
+and morning, early morning, five minutes, wherever possible, one hour weekly, but ten days
+
+517
+01:13:17,220 --> 01:13:23,780
+every year must. But more than that, if one gets more time, there is no restriction, more
+
+518
+01:13:23,780 --> 01:13:29,500
+time. When you are busy with your daily responsibilities, in your profession, in your livelihood, whole
+
+519
+01:13:29,500 --> 01:13:34,340
+attention must be on your work. This is your anapana, this is your V-person, all attention
+
+520
+01:13:34,340 --> 01:13:39,020
+on your work, so that you get good result in your work, in your mundane field. But whenever
+
+521
+01:13:39,020 --> 01:13:46,380
+you are free, even during your daily work, you find that five, ten minutes you got no work,
+
+522
+01:13:46,380 --> 01:13:51,660
+alright, you are relaxing, open eyes, your mind inside, and itch, and itch, and itch, if you
+
+523
+01:13:51,660 --> 01:13:56,660
+become very fresh and again, start working. Or somewhere you have to wait, wait, maybe
+
+524
+01:13:56,660 --> 01:14:00,420
+half an hour or one hour you got no work, and if you are not a good person, you are ready
+
+525
+01:14:00,420 --> 01:14:06,460
+to start boiling, why you have to wait here, and is a negative, and instead of that, you
+
+526
+01:14:06,460 --> 01:14:10,780
+say, be happy, if you have to wait, have to wait, alright, I got this opportunity now, Anisha,
+
+527
+01:14:10,780 --> 01:14:18,100
+Anisha, Anisha, you remain so calm, so tranquil, so balanced. Make use of time, whenever
+
+528
+01:14:18,100 --> 01:14:23,380
+you find you are free, practice with your personal, whenever you find your busy, then be with
+
+529
+01:14:23,380 --> 01:14:30,180
+your work to get good results. Like this, although you have taken a ten day course in the
+
+530
+01:14:30,180 --> 01:14:34,180
+year, and you find you got another holiday, five days are there, take a short course, five
+
+531
+01:14:34,180 --> 01:14:40,240
+days course. People come to such centers for two day courses weekends, they come Friday,
+
+532
+01:14:40,240 --> 01:14:46,100
+evening, and go Monday morning, they worked here, they get benefit out of it. So make use
+
+533
+01:14:46,100 --> 01:14:55,340
+of your time, human life is such a valuable life, why valuable? Because to purify the mind,
+
+534
+01:14:55,340 --> 01:15:02,780
+to liberate the mind from all the impurities, this can be done only by a human being, nature
+
+535
+01:15:02,780 --> 01:15:08,060
+has given this wonderful faculty only to human being. What you have started doing, observing
+
+536
+01:15:08,060 --> 01:15:13,420
+the reality inside, making an analytical study of mind and matter, understanding how the
+
+537
+01:15:13,420 --> 01:15:17,660
+misery arises, the defilement arises, how it tries to overpower you, how you can come
+
+538
+01:15:17,660 --> 01:15:25,380
+out of it, this kind of work a animal cannot do, a bird cannot do, a reptile cannot do,
+
+539
+01:15:25,380 --> 01:15:31,180
+an insect cannot do. A human being has been given this facility, this faculty by the
+
+540
+01:15:31,180 --> 01:15:35,740
+nature, or you want to call the God Almighty, and if you don't use this wonderful faculty
+
+541
+01:15:35,740 --> 01:15:41,060
+given to you, then there is no difference between a human life or a non-human life, makes no
+
+542
+01:15:41,060 --> 01:15:47,020
+difference. You have to make use of the human life by using this wonderful faculty of self-observation,
+
+543
+01:15:47,020 --> 01:15:51,660
+truth observation, and coming out of all the miseries. So whenever you are busy in your
+
+544
+01:15:51,660 --> 01:15:56,580
+mundane life as a family person, then you give all your attention to that, but whenever
+
+545
+01:15:56,580 --> 01:16:03,140
+you have time, give attention to this process of purification, process of liberation.
+
+546
+01:16:03,140 --> 01:16:08,260
+Daily sittings, when you take a short course of five days or two days and one-third of the
+
+547
+01:16:08,260 --> 01:16:14,460
+period must be given to Anapana and two-third to Vipashana, but in your daily sittings,
+
+548
+01:16:14,460 --> 01:16:19,020
+just one hour is there, morning one hour, evening one hour, not necessary to give one-third
+
+549
+01:16:19,020 --> 01:16:26,140
+to Anapana and two-third to Vipashana. Vipashana will remain the main technique, but Anapana
+
+550
+01:16:26,140 --> 01:16:35,060
+should be used as and when necessary, as much as necessary. Any day when you sit for meditation
+
+551
+01:16:35,060 --> 01:16:40,180
+and you find your mind is very agitated, then do Anapana. Practice Anapana, five minutes,
+
+552
+01:16:40,180 --> 01:16:44,060
+ten minutes, fifteen minutes. If it is very agitated, maybe a whole hour, it doesn't
+
+553
+01:16:44,060 --> 01:16:49,100
+matter. Next sitting will be alright. Make use of Anapana, whenever it is necessary. You
+
+554
+01:16:49,100 --> 01:16:54,460
+started your Vipashana very well in the midst of the hour, some storm arose and again you
+
+555
+01:16:54,460 --> 01:17:00,700
+need Anapana, start Anapana. So Anapana should be used as and when necessary, but otherwise
+
+556
+01:17:00,700 --> 01:17:06,660
+we personal. When you practice Vipashana, I keep on reminding, don't start playing games
+
+557
+01:17:06,660 --> 01:17:14,460
+of sensation. Otherwise you are going in totally opposite direction. If you get pleasant
+
+558
+01:17:14,460 --> 01:17:18,900
+sensation, a free flow when you feel very illiterate because of that, you start generating
+
+559
+01:17:18,900 --> 01:17:24,020
+craving and clinging towards it. If you get again gross sensation and pleasant sensation,
+
+560
+01:17:24,020 --> 01:17:30,340
+you generate aversion towards it, then it is not Vipashana. It is totally against Vipashana.
+
+561
+01:17:30,340 --> 01:17:39,340
+Understand whatever arises, keep on understanding its characteristic is Anisha. I have to come out
+
+562
+01:17:39,340 --> 01:17:43,620
+of the old habit of craving. I have to come out of the old habit of aversion, not merely
+
+563
+01:17:43,620 --> 01:17:48,080
+at the surface level of the mind, not merely at the intellectual level. I have to come
+
+564
+01:17:48,080 --> 01:17:52,500
+out of it at the deepest level of the mind, which is called the unconscious mind, which
+
+565
+01:17:52,500 --> 01:17:56,820
+keeps on feeling the sensations and keeps on reacting with craving and aversion. This is
+
+566
+01:17:56,820 --> 01:18:04,460
+what I have to break. And if I multiply the same habit, I am not getting benefit of Vipashana,
+
+567
+01:18:04,460 --> 01:18:09,340
+it is not Vipashana. If you keep on understanding that, you will practice properly and you will
+
+568
+01:18:09,340 --> 01:18:16,660
+get good results. And also see that your practice every day should not become mechanical, moving
+
+569
+01:18:16,660 --> 01:18:20,780
+from head to feet and feet to head, like you count your rosary and you forget what is
+
+570
+01:18:20,780 --> 01:18:26,140
+what you are doing. This should not become mechanical. Whenever you find it is becoming mechanical
+
+571
+01:18:26,140 --> 01:18:30,660
+and you are forgetting everything about Anisha or everything about your craving, aversion
+
+572
+01:18:30,660 --> 01:18:36,380
+or equanimity, then change a little. Come back to Anapana. If you are moving fast, start
+
+573
+01:18:36,380 --> 01:18:40,860
+moving slow, if you are moving slow, start moving fast, start moving this way, this way,
+
+574
+01:18:40,860 --> 01:18:46,500
+come out of the monotony. And don't allow it to become mechanical. The main purpose should
+
+575
+01:18:46,500 --> 01:18:52,340
+always be clear in your mind that I am doing this exercise every day, morning and evening
+
+576
+01:18:52,340 --> 01:18:58,540
+to change the habit pattern of my life. When I remain slay of this habit pattern and I keep
+
+577
+01:18:58,540 --> 01:19:05,940
+on generating craving aversion, craving aversion, it is a big misery for me, very big misery. I have
+
+578
+01:19:05,940 --> 01:19:11,500
+to come out of my misery. And when I become miserable, I make others miserable. So I should
+
+579
+01:19:11,500 --> 01:19:17,020
+not become an instrument to make others miserable. So that point should be very clear that I am
+
+580
+01:19:17,020 --> 01:19:21,900
+practicing this not as a right or a ritual or a religious ceremony, nothing doing. This
+
+581
+01:19:21,900 --> 01:19:29,140
+is a mental exercise. As we do physical exercise to keep our body fit, sound, healthy, strong.
+
+582
+01:19:29,140 --> 01:19:35,020
+So this is a mental exercise to keep the mind healthy, strong, sound with this understanding.
+
+583
+01:19:35,020 --> 01:19:42,020
+Keep on practicing and get best fruits of thumb. A wonderful thumb, a wonderful technique you've
+
+584
+01:19:42,020 --> 01:19:48,700
+got now. Make use of it. And see that you not only retain it, you multiply, you grow in
+
+585
+01:19:48,700 --> 01:19:57,100
+thumb, grow in thumb. There is a story back in our country. Last 10 days you have been hearing
+
+586
+01:19:57,100 --> 01:20:03,100
+many stories, many listening many stories. Perhaps your teacher is an addict of telling stories
+
+587
+01:20:03,100 --> 01:20:13,100
+and you are also getting a dick to listen to stories. So before we part one more story,
+
+588
+01:20:13,100 --> 01:20:25,100
+an old man in our country, very rich man, he became widower, the old lady passed away.
+
+589
+01:20:25,100 --> 01:20:33,660
+And in our country and perhaps here also the housewife is the owner of everything, money,
+
+590
+01:20:33,660 --> 01:20:40,180
+jewelry, property, everything. She keeps the bunch of the key. Now the old lady has gone
+
+591
+01:20:40,180 --> 01:20:44,660
+and it was a joint family. He had four sons, so four daughters in law. He can't give this
+
+592
+01:20:44,660 --> 01:20:52,380
+bunch of key to everyone. He has to choose one. So he calls them, this bunch of key. It will
+
+593
+01:20:52,380 --> 01:21:00,340
+be given to one who gets highest mark. I will examine you. What examine? He gave five
+
+594
+01:21:00,340 --> 01:21:06,940
+grains of corn to each five grains, five grains. I will come after four years. You have to
+
+595
+01:21:06,940 --> 01:21:12,620
+preserve these five grains. One who cannot take care of five grains, how can one take care
+
+596
+01:21:12,620 --> 01:21:18,660
+of all the money, the jewellery, the granary, etc. This is your examination. The old man went
+
+597
+01:21:18,660 --> 01:21:26,740
+away. The eldest daughter in law thought, the old man is going crazy. For four years, worried
+
+598
+01:21:26,740 --> 01:21:31,100
+about those five grains, value less five grains, better throw them away. When he comes, I take
+
+599
+01:21:31,100 --> 01:21:36,500
+another five grains from the granary and give him, take your five grains. She threw away.
+
+600
+01:21:36,500 --> 01:21:43,780
+The second one thought, yes, it is not good to worry about these five grains for four years.
+
+601
+01:21:43,780 --> 01:21:49,380
+But who knows? These very five grains, we have some wonderful powers, some magical powers,
+
+602
+01:21:49,380 --> 01:21:53,660
+some miraculous powers. And after four years, he will say, "All right, eat it." And as I eat
+
+603
+01:21:53,660 --> 01:21:58,980
+it, I get this supernatural power, that supernatural power. I should not throw away. I better eat
+
+604
+01:21:58,980 --> 01:22:06,180
+it now. And when he comes, I give another five grains and shade them. The third one, very
+
+605
+01:22:06,180 --> 01:22:12,820
+eager to get the bunch of the key. So she kept those five grains in a room where she keeps
+
+606
+01:22:12,820 --> 01:22:18,260
+the statues of her gods and goddesses. And every day she goes and inspects them. So she
+
+607
+01:22:18,260 --> 01:22:22,640
+goes every day to inspect the five grains also. Took care of the five grains all the four
+
+608
+01:22:22,640 --> 01:22:30,780
+years. The fourth one, she took the five grains, cleared the land behind the house and planted
+
+609
+01:22:30,780 --> 01:22:38,380
+them. When time ripened, five plants came out with hundred grains each. And the next season,
+
+610
+01:22:38,380 --> 01:22:42,380
+all those hundred, five hundred grains were planted. And the next season, all the grains
+
+611
+01:22:42,380 --> 01:22:50,380
+were planted. In four years, tons of grains. When the old man came, everyone had a own story.
+
+612
+01:22:50,380 --> 01:22:55,900
+When he came to the fourth one, he said, "They've increased, sir. Go downs are full. Bring
+
+613
+01:22:55,900 --> 01:23:01,620
+some laborers to take them." Old man was very happy. This daughter has not only preserved
+
+614
+01:23:01,620 --> 01:23:09,620
+five grains, she has multiplied, multiplied. This old man has also given five grains of
+
+615
+01:23:09,620 --> 01:23:16,820
+dhamma, not only preserved them, multiplied, multiplied. And I don't carry away with me,
+
+616
+01:23:16,820 --> 01:23:22,500
+the bunch of key. It is with you. As you keep on multiplying, multiplying dhamma, you are
+
+617
+01:23:22,500 --> 01:23:29,220
+able to open the gateory of the kingdom of heaven within and enjoy it. You can open the
+
+618
+01:23:29,220 --> 01:23:35,580
+gateory of the Brahminic plain within and enjoy the gateory of the nibbhannic piece within
+
+619
+01:23:35,580 --> 01:23:42,780
+and enjoy it. Keep growing in dhamma, keep growing in dhamma, not to oblige anybody else for
+
+620
+01:23:42,780 --> 01:23:48,980
+her own good, for her own benefit. And also for the good and benefit of so many others,
+
+621
+01:23:48,980 --> 01:23:57,460
+so many others. One little thing more, which I don't forget before closing the seminar,
+
+622
+01:23:57,460 --> 01:24:03,900
+this is of my self-interest and being born in a business family. The tinge of selfishness
+
+623
+01:24:03,900 --> 01:24:11,300
+does not go. Still there, what self-interest is there. There is a tradition, I believe,
+
+624
+01:24:11,300 --> 01:24:14,820
+in our country, and I have been hitting hard at many of the traditions, but I don't
+
+625
+01:24:14,820 --> 01:24:21,460
+hit this particular tradition. I like it very much. The tradition is that if you learn
+
+626
+01:24:21,460 --> 01:24:27,780
+any art, any technique from any teacher and you don't give proper remineration, we call
+
+627
+01:24:27,780 --> 01:24:33,260
+it dhaksina, guru dhaksina, you don't give proper fees, proper remineration, that technique
+
+628
+01:24:33,260 --> 01:24:43,780
+will not work for you. I like this very much. This is wonderful. Everyone who comes to
+
+629
+01:24:43,780 --> 01:24:50,740
+a course just to develop one's own power, me, everyone gives some donation or the other,
+
+630
+01:24:50,740 --> 01:24:55,780
+that is for the coming students, that is for the facility of the coming students, what
+
+631
+01:24:55,780 --> 01:25:03,020
+the teacher gets and teacher must get something. If fat fees for the fat teacher, what fat fees
+
+632
+01:25:03,020 --> 01:25:08,980
+for a fat teacher? Every day, morning and evening, when you meditate, we push you know, and
+
+633
+01:25:08,980 --> 01:25:13,460
+at the end of your sitting, when you say, "I share my merits with all." You may remember
+
+634
+01:25:13,460 --> 01:25:17,700
+me. If you don't remember, it doesn't matter. When you say, "Well, all being share my
+
+635
+01:25:17,700 --> 01:25:23,540
+merits," may all beings be happy. This is one amongst all beings. And your meta will be
+
+636
+01:25:23,540 --> 01:25:29,020
+coming to me. This is your fees. Every day, morning and evening, you don't give this
+
+637
+01:25:29,020 --> 01:25:37,140
+fees to technique, will not work for you. Keep giving your fees, keep giving your fees.
+
+638
+01:25:37,140 --> 01:25:46,060
+Dhamma is so wonderful. Such an invaluable jewel. It is because of somebody good fortune,
+
+639
+01:25:46,060 --> 01:25:50,500
+because of some very good karma of the past that one gets pure Dhamma. Otherwise in the
+
+640
+01:25:50,500 --> 01:25:56,540
+name of Dhamma, all the sectarian things, rites, rituals, people are being involved in that
+
+641
+01:25:56,540 --> 01:26:00,740
+whole life and they feel I am a very religious person, I am a very religious person, when one
+
+642
+01:26:00,740 --> 01:26:08,260
+does not have a trace of Dhamma. You are fortunate. You have Dhamma now. Make use of it. Keep
+
+643
+01:26:08,260 --> 01:26:14,100
+growing in Dhamma. Keep growing in Dhamma for your good, for your benefit and also for
+
+644
+01:26:14,100 --> 01:26:22,220
+the good of and benefit of so many others, so many others. Before we close this Dhamma seminar,
+
+645
+01:26:22,220 --> 01:26:31,220
+we better practice for a few minutes, Smethabhavna. Practice Smethabhavna for a few minutes.
+
+646
+01:26:31,220 --> 01:26:57,340
+Better share your merits with all beings, whatever merits you have acquired during these 10
+
+647
+01:26:57,340 --> 01:27:07,820
+days and you acquired enormous merits during these 10 days. Better share these merits with
+
+648
+01:27:07,820 --> 01:27:26,620
+all beings, all beings. Share your peace and harmony with all beings, all beings. May all
+
+649
+01:27:26,620 --> 01:27:47,980
+beings be happy. May all beings be peaceful. May all beings be liberated. Liberated. Liberated.
+
+650
+01:27:47,980 --> 01:27:51,860
+[Lily sounds from the speaker]
+
+651
+01:27:51,860 --> 01:27:53,860
+[Lily sounds from the speaker]
+
+652
+01:27:53,860 --> 01:27:55,860
+[Lily sounds from the speaker]
+
+653
+01:27:55,860 --> 01:27:57,860
+[Lily sounds from the speaker]
+
+654
+01:27:57,860 --> 01:27:59,860
+[Lily sounds from the speaker]
+
+655
+01:27:59,860 --> 01:28:01,860
+[Lily sounds from the speaker]
+
+656
+01:28:01,860 --> 01:28:04,860
+(pages wailing)
+
+657
+01:28:04,860 --> 01:28:06,860
+(pages wailing)
+
+658
+01:28:06,860 --> 01:28:08,860
+(pages wailing)
+
+659
+01:28:08,860 --> 01:28:10,860
+(pages wailing)
+
+660
+01:28:10,860 --> 01:28:12,860
+(pages wailing)
+
+661
+01:28:12,860 --> 01:28:14,860
+(pages wailing)
+
+662
+01:28:14,860 --> 01:28:16,860
+(pages wailing)
+
+663
+01:28:16,860 --> 01:28:18,860
+(pages wailing)
+
+664
+01:28:18,860 --> 01:28:20,860
+(pages wailing)
+
+665
+01:28:20,860 --> 01:28:22,860
+(pages wailing)
+
+666
+01:28:22,860 --> 01:28:24,860
+(pages wailing)
+
+667
+01:28:24,860 --> 01:28:26,860
+(pages wailing)
+
+668
+01:28:26,860 --> 01:28:28,860
+(pages wailing)
+
+669
+01:28:28,860 --> 01:28:30,860
+(pages wailing)
+
+670
+01:28:30,860 --> 01:28:32,860
+(pages wailing)
+
+671
+01:28:32,860 --> 01:28:34,860
+(pages wailing)
+
+672
+01:28:34,860 --> 01:28:36,860
+(pages wailing)
+
+673
+01:28:36,860 --> 01:28:38,860
+(pages wailing)
+
+674
+01:28:38,860 --> 01:28:40,860
+(pages wailing)
+
+675
+01:28:40,860 --> 01:28:42,860
+(pages wailing)
+
+676
+01:28:42,860 --> 01:28:44,860
+(pages wailing)
+
+677
+01:28:44,860 --> 01:28:46,860
+(pages wailing)
+
+678
+01:29:08,860 --> 01:29:18,860
+(pages wailing)
+
+679
+01:29:18,860 --> 01:29:20,860
+(pages wailing)
+
+680
+01:29:20,860 --> 01:29:22,860
+(pages wailing)
+
+681
+01:29:22,860 --> 01:29:30,860
+(pages wailing)
+
+682
+01:29:30,860 --> 01:29:32,860
+(pages wailing)
+
+683
+01:29:32,860 --> 01:29:34,860
+(pages wailing)
+
+684
+01:29:34,860 --> 01:29:36,860
+(pages wailing)
+
+685
+01:29:36,860 --> 01:29:38,860
+(pages wailing)
+
+686
+01:29:38,860 --> 01:29:40,860
+(pages wailing)
+
+687
+01:29:40,860 --> 01:29:48,860
+(pages wailing)
+
+688
+01:29:48,860 --> 01:29:50,860
+(pages wailing)
+
+689
+01:29:50,860 --> 01:29:52,860
+(pages wailing)
+
+690
+01:29:52,860 --> 01:29:54,860
+(pages wailing)
+
+691
+01:29:54,860 --> 01:30:00,860
+(pages wailing)
+
+692
+01:30:00,860 --> 01:30:02,860
+(pages wailing)
+
+693
+01:30:02,860 --> 01:30:04,860
+(pages wailing)
+
+694
+01:30:04,860 --> 01:30:10,860
+(pages wailing)
+
+695
+01:30:10,860 --> 01:30:12,860
+(pages wailing)
+
+696
+01:30:12,860 --> 01:30:14,860
+(pages wailing)
+
+697
+01:30:14,860 --> 01:30:20,860
+(pages wailing)
+
+698
+01:30:20,860 --> 01:30:22,860
+(pages wailing)
+
+699
+01:30:22,860 --> 01:30:24,860
+(pages wailing)
+
+700
+01:30:24,860 --> 01:30:26,860
+(pages wailing)
+
+701
+01:30:26,860 --> 01:30:30,860
+(pages wailing)
+
+702
+01:30:30,860 --> 01:30:32,860
+(pages wailing)
+
+703
+01:30:32,860 --> 01:30:42,860
+(pages wailing)
+
+704
+01:30:42,860 --> 01:30:44,860
+(pages wailing)
+
+705
+01:30:44,860 --> 01:30:50,860
+(pages wailing)
+
+706
+01:30:50,860 --> 01:30:52,860
+(pages wailing)
+
+707
+01:30:52,860 --> 01:30:58,860
+(pages wailing)
+
+708
+01:30:58,860 --> 01:31:00,860
+(pages wailing)
+
+709
+01:31:00,860 --> 01:31:02,860
+(pages wailing)
+
+710
+01:31:02,860 --> 01:31:04,860
+(pages wailing)
+
+711
+01:31:04,860 --> 01:31:06,860
+(pages wailing)
+
+712
+01:31:06,860 --> 01:31:08,860
+(pages wailing)
+
+713
+01:31:08,860 --> 01:31:10,860
+(pages wailing)
+
+714
+01:31:10,860 --> 01:31:12,860
+(pages wailing)
+
+715
+01:31:12,860 --> 01:31:18,860
+(pages wailing)
+
+716
+01:31:18,860 --> 01:31:24,860
+(pages wailing)
+
+717
+01:31:24,860 --> 01:31:30,860
+(pages wailing)
+
+718
+01:31:38,860 --> 01:31:40,860
+(pages wailing)
+
+719
+01:31:40,860 --> 01:31:52,860
+(pages wailing)
+
+720
+01:31:52,860 --> 01:32:04,860
+(pages wailing)
+
+721
+01:32:04,860 --> 01:32:06,860
+(pages wailing)
+
+722
+01:32:06,860 --> 01:32:10,860
+(pages wailing)
+
+723
+01:32:10,860 --> 01:32:22,860
+(pages wailing)
+
+724
+01:32:22,860 --> 01:32:24,860
+(pages wailing)
+
+725
+01:32:24,860 --> 01:32:26,860
+(pages wailing)
+
+726
+01:32:26,860 --> 01:32:28,860
+(pages wailing)
+
+727
+01:32:28,860 --> 01:32:30,860
+(pages wailing)
+
+728
+01:32:30,860 --> 01:32:50,860
+(pages wailing)
+
+729
+01:32:50,860 --> 01:32:52,860
+(pages wailing)
+
+730
+01:33:12,860 --> 01:33:22,860
+(pages wailing)
+
+731
+01:33:22,860 --> 01:33:28,860
+(pages wailing)
+
+732
+01:33:28,860 --> 01:33:40,860
+(pages wailing)
+
+733
+01:33:40,860 --> 01:33:42,860
+(pages wailing)
+
+734
+01:33:42,860 --> 01:34:02,860
+(pages wailing)
+
+735
+01:34:02,860 --> 01:34:04,860
+(pages wailing)
+
+736
+01:34:30,860 --> 01:34:32,860
+(pages wailing)
+
+737
+01:34:32,860 --> 01:34:42,860
+(pages wailing)
+
+738
+01:34:42,860 --> 01:34:52,860
+(pages wailing)
+
+739
+01:34:58,860 --> 01:35:00,860
+(pages wailing)
+
+740
+01:35:00,860 --> 01:35:08,860
+(pages wailing)
+
+741
+01:35:08,860 --> 01:35:16,860
+(pages wailing)
+
+742
+01:35:24,860 --> 01:35:26,860
+(pages wailing)
+
+743
+01:35:26,860 --> 01:35:36,860
+(pages wailing)
+
+744
+01:35:36,860 --> 01:35:46,860
+(pages wailing)
+
+745
+01:35:46,860 --> 01:35:48,860
+(pages wailing)
+
+746
+01:35:48,860 --> 01:35:56,860
+(pages wailing)
+
+747
+01:35:56,860 --> 01:36:02,860
+(pages wailing)
+
+748
+01:36:02,860 --> 01:36:12,860
+(pages wailing)
+
+749
+01:36:12,860 --> 01:36:14,860
+(pages wailing)
+
+750
+01:36:14,860 --> 01:36:22,860
+(pages wailing)
+
+751
+01:36:22,860 --> 01:36:32,860
+(pages wailing)
+
+752
+01:36:40,860 --> 01:36:42,860
+(pages wailing)
+
+753
+01:36:42,860 --> 01:36:52,860
+(pages wailing)
+
+754
+01:36:52,860 --> 01:37:02,860
+(pages wailing)
+
+755
+01:37:02,860 --> 01:37:04,860
+(pages wailing)
+
+756
+01:37:04,860 --> 01:37:12,860
+(pages wailing)
+
+757
+01:37:12,860 --> 01:37:18,860
+(pages wailing)
+
+758
+01:37:18,860 --> 01:37:26,860
+(pages wailing)
+
+759
+01:37:26,860 --> 01:37:28,860
+(pages wailing)
+
+760
+01:37:28,860 --> 01:37:48,860
+(pages wailing)
+
+761
+01:37:54,860 --> 01:37:56,860
+(pages wailing)
+
+762
+01:37:56,860 --> 01:38:20,860
+(pages wailing)
+
+763
+01:38:20,860 --> 01:38:22,860
+(pages wailing)
+
+764
+01:38:22,860 --> 01:38:34,860
+(pages wailing)
+
+765
+01:38:34,860 --> 01:38:42,860
+(pages wailing)
+
+766
+01:38:42,860 --> 01:38:44,860
+(pages wailing)
+
+767
+01:38:44,860 --> 01:38:58,860
+(pages wailing)
+
+768
+01:38:58,860 --> 01:39:08,860
+(pages wailing)
+
+769
+01:39:08,860 --> 01:39:10,860
+(pages wailing)
+
+770
+01:39:10,860 --> 01:39:22,860
+(pages wailing)
+
+771
+01:39:22,860 --> 01:39:36,860
+(pages wailing)
+
+772
+01:39:36,860 --> 01:39:38,860
+(pages wailing)
+
+773
+01:39:38,860 --> 01:40:00,860
+(pages wailing)
+
+774
+01:40:00,860 --> 01:40:02,860
+(pages wailing)
+
+775
+01:40:02,860 --> 01:40:04,860
+(pages wailing)
+
+776
+01:40:04,860 --> 01:40:06,860
+(pages wailing)
+
+777
+01:40:06,860 --> 01:40:08,860
+(pages wailing)
+
+778
+01:40:08,860 --> 01:40:10,860
+(pages wailing)
+
+779
+01:40:10,860 --> 01:40:12,860
+(pages wailing)
+
+780
+01:40:12,860 --> 01:40:14,860
+(pages wailing)
+
+781
+01:40:14,860 --> 01:40:16,860
+(pages wailing)
+
+782
+01:40:16,860 --> 01:40:18,860
+(pages wailing)
+
+783
+01:40:18,860 --> 01:40:20,860
+(pages wailing)
+
+784
+01:40:20,860 --> 01:40:22,860
+(pages wailing)
+
+785
+01:40:22,860 --> 01:40:24,860
+(pages wailing)
+
+786
+01:40:24,860 --> 01:40:26,860
+(pages wailing)
+
+787
+01:40:26,860 --> 01:40:28,860
+(pages wailing)
+
+788
+01:40:28,860 --> 01:40:30,860
+(pages wailing)
+
+789
+01:40:30,860 --> 01:40:32,860
+(pages wailing)
+
+790
+01:40:32,860 --> 01:40:34,860
+(pages wailing)
+
+791
+01:40:34,860 --> 01:40:36,860
+(pages wailing)
+
+792
+01:40:36,860 --> 01:40:38,860
+(pages wailing)
+
+793
+01:40:38,860 --> 01:40:40,860
+(pages wailing)
+
+794
+01:40:40,860 --> 01:40:42,860
+(pages wailing)
+
+795
+01:40:42,860 --> 01:40:44,860
+(pages wailing)
+
+796
+01:40:44,860 --> 01:40:46,860
+(pages wailing)
+
+797
+01:40:46,860 --> 01:40:48,860
+(pages wailing)
+
+798
+01:40:48,860 --> 01:40:50,860
+(pages wailing)
+
+799
+01:40:50,860 --> 01:40:52,860
+(pages wailing)
+
+800
+01:40:52,860 --> 01:40:54,860
+(pages wailing)
+
+801
+01:40:54,860 --> 01:40:56,860
+(pages wailing)
+
+802
+01:40:56,860 --> 01:40:58,860
+(pages wailing)
+
+803
+01:40:58,860 --> 01:41:00,860
+(pages wailing)
+
+804
+01:41:00,860 --> 01:41:02,860
+(pages wailing)
+
+805
+01:41:02,860 --> 01:41:04,860
+(pages wailing)
+
+806
+01:41:04,860 --> 01:41:06,860
+(pages wailing)
+
+807
+01:41:06,860 --> 01:41:08,860
+(pages wailing)
+
+808
+01:41:08,860 --> 01:41:10,860
+(pages wailing)
+
+809
+01:41:10,860 --> 01:41:12,860
+(pages wailing)
+
+810
+01:41:12,860 --> 01:41:14,860
+(pages wailing)
+
+811
+01:41:14,860 --> 01:41:16,860
+(pages wailing)
+
+812
+01:41:16,860 --> 01:41:18,860
+(pages wailing)
+
+813
+01:41:18,860 --> 01:41:20,860
+(pages wailing)
+
+814
+01:41:20,860 --> 01:41:22,860
+(pages wailing)
+
+815
+01:41:22,860 --> 01:41:24,860
+(pages wailing)
+
+816
+01:41:24,860 --> 01:41:26,860
+(pages wailing)
+
+817
+01:41:26,860 --> 01:41:28,860
+(pages wailing)
+
+818
+01:41:28,860 --> 01:41:30,860
+(pages wailing)
+
+819
+01:41:30,860 --> 01:41:32,860
+(pages wailing)
+
+820
+01:41:32,860 --> 01:41:34,860
+(pages wailing)
+
+821
+01:41:34,860 --> 01:41:36,860
+(pages wailing)
+
+822
+01:41:36,860 --> 01:41:38,860
+(pages wailing)
+
+823
+01:41:38,860 --> 01:41:40,860
+(pages wailing)
+
+824
+01:41:40,860 --> 01:41:42,860
+(pages wailing)
+
+825
+01:41:42,860 --> 01:41:44,860
+(pages wailing)
+
+826
+01:41:44,860 --> 01:41:46,860
+(pages wailing)
+
+827
+01:41:46,860 --> 01:41:48,860
+(pages wailing)
+
+828
+01:41:48,860 --> 01:41:50,860
+(pages wailing)
+
+829
+01:41:50,860 --> 01:41:52,860
+(pages wailing)
+
+830
+01:41:52,860 --> 01:41:54,860
+(pages wailing)
+
+831
+01:41:54,860 --> 01:42:04,860
+[BLANK_AUDIO]
+
